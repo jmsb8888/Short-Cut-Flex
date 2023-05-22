@@ -1,0 +1,73 @@
+in		//Declarar entero
+fl 		//Declarar flotante
+ch 		//Declarar char
+db 		//Declarar double
+vd 		//Valor void
+arrin 	//Declarar Array entero
+arrdb 	//Declarar Array flotante
+arrch 	//Declarar Array char
+punt 	// crear apuntador
+
+mn 		//crear main
+mt 		//crear metodo
+enum 	//crear enumerado
+
+frxy<+ 	//crear for con comparacion < y que incremente ++
+frxy<-	//crear for con comparacion < y que decremente --
+frxy>-	//crear for con comparacion > y que decremente --
+frxy>+	//crear for con comparacion > y que incremente ++
+
+sii=	//crear if  comparando enteros iguales
+sii>	//crear if  comparando si un entero es mayor que otro
+sii<	//crear if  comparando si un entero es menor que otro
+sii>=	//crear if  comparando si un entero es mayor o igual  que otro
+sii<=	//crear if  comparando si un entero es menor o igual que otro
+sii!=	//crear if  comparando si un entero es diferente que otro
+
+sid=	//crear if  comparando enteros iguales
+sid>	//crear if  comparando si un double es mayor que otro
+sid<	//crear if  comparando si un double es menor que otro
+sid>=	//crear if  comparando si un double es mayor o igual  que otro
+sid<=	//crear if  comparando si un double es menor o igual que otro
+sid!=	//crear if  comparando si un double es diferente que otro
+
+sis=	//crear if comparando si dos string son iguales
+sis!=	//crear if comparando si dos string son diferentes
+
+wii=	//crear while  con condicion de enteros iguales
+wii>	//crear while  con condicion de si un entero es mayor que otro
+wii<	//crear while  con condicion de si un entero es menor que otro
+wii>=	//crear while  con condicion de si un entero es mayor o igual  que otro
+wii<=	//crear while  con condicion de si un entero es menor o igual que otro
+wii!=	//crear while  con condicion de si un entero es diferente que otro
+
+wid=	//crear while  con condicion de doubles iguales
+wid>	//crear while  con condicion de si un double es mayor que otro
+wid<	//crear while  con condicion de si un double es menor que otro
+wid>=	//crear while  con condicion de si un double es mayor o igual  que otro
+wid<=	//crear while  con condicion de si un double es menor o igual que otro
+wid!=	//crear while  con condicion de si un double es diferente que otro
+
+dwii=	//crear do while  con condicion de enteros iguales
+dwii>	//crear do while  con condicion de si un entero es mayor que otro
+dwii<	//crear do while  con condicion de si un entero es menor que otro
+dwii>=	//crear do while  con condicion de si un entero es mayor o igual  que otro
+dwii<=	//crear do while  con condicion de si un entero es menor o igual que otro
+dwii!=	//crear do while  con condicion de si un entero es diferente que otro
+
+dwid=	//crear do while  con condicion de doubles iguales
+dwid>	//crear do while  con condicion de si un double es mayor que otro
+dwid<	//crear do while  con condicion de si un double es menor que otro
+dwid>=	//crear do while  con condicion de si un double es mayor o igual  que otro
+dwid<=	//crear do while  con condicion de si un double es menor o igual que otro
+dwid!=	//crear do while  con condicion de si un double es diferente que otro
+
+swca	//crear switch generico
+
+opi?	//crear ternario comparando enteros
+opd?	//crear ternarios comparando double
+rt		//crear retorno
+sc		//crear scanner
+prt		//crear pirntf
+fo		//crear FOPEN
+fc		//crear fclose;
